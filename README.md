@@ -1,6 +1,6 @@
 Device used : Pixel 5 API 33
 
-This is a Weather App built with React Native and vanilla CSS. 
+This is a Weather App built with React Native and Android Studio for the use of an emulator.
 
 The app has 3 screens only, that shows the current weather, upcoming weather and cities.
 
